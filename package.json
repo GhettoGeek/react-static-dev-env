@@ -33,7 +33,7 @@
     "redux-form": "^8.2.0"
   },
   "devDependencies": {
-    "babel-eslint": "9.x",
+    "babel-eslint": "^10.0.3",
     "cross-env": "^5.2.0",
     "docz": "^1.0.0-rc.9",
     "docz-plugin-css": "^0.11.0",
